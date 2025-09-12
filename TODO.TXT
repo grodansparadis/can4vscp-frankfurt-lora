@@ -1,0 +1,41 @@
+Frankfurt LoRa Gateway Module - TODO List
+==========================================
+
+Hardware Development:
+- Design schematic for LoRa radio integration
+- Select appropriate LoRa transceiver chip (SX1276/SX1278)
+- Design PCB layout with proper RF layout practices
+- Add antenna connector and impedance matching
+- Implement CAN4VSCP physical layer interface
+- Add power management circuitry
+- Design enclosure for RF shielding
+
+Firmware Development:
+- Implement LoRa radio driver
+- Add VSCP protocol stack integration
+- Create event filtering and forwarding logic
+- Implement decision matrix functionality
+- Add register model for configuration
+- Create bootloader compatibility
+- Add antenna tuning and RF calibration
+- Implement power saving modes
+
+Documentation:
+- Complete technical specifications
+- Add hardware assembly guide
+- Create user configuration manual
+- Add troubleshooting guide
+- Document LoRa network topology guidelines
+
+Testing & Validation:
+- RF compliance testing
+- Range and performance validation
+- VSCP protocol compliance verification
+- Environmental testing (temperature, humidity)
+- EMC/EMI compliance testing
+
+Production:
+- Finalize manufacturing files
+- Create test and calibration procedures
+- Establish quality control processes
+- Prepare for regulatory approvals (FCC, CE, IC)

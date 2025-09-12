@@ -1,0 +1,25 @@
+Frankfurt LoRa Gateway module
+=============================
+
+2024-12-19 - Initial project setup and documentation structure creation
+         - Repository created with basic document framework
+         - Documentation structure based on can4vscp-paris module
+         - Project goals and specifications outlined
+         - README.md enhanced with comprehensive project description
+
+Version 0.0.1 - Development Phase
+================================
+- Initial development phase
+- Documentation framework established  
+- Hardware design planning
+- Firmware architecture planning
+- LoRa integration research and specification
+
+Future Milestones
+================
+- Hardware schematic design
+- PCB layout and fabrication files
+- Firmware development (LoRa radio interface)
+- VSCP protocol implementation
+- Testing and validation
+- Production release
